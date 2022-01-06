@@ -16,6 +16,7 @@ class HomePage extends StatelessWidget {
           child: Text("Love You $days "),
         ),
       ),
+      drawer: Drawer(),
     );
   }
 }
